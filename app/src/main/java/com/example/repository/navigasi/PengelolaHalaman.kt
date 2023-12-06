@@ -16,10 +16,10 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.repository.R
-import com.example.repository.ui.Halaman.DestinasiEntry
-import com.example.repository.ui.Halaman.DestinasiHome
-import com.example.repository.ui.Halaman.EntrySiswaScreen
-import com.example.repository.ui.Halaman.HomeScreen
+import com.example.repository.`ui/theme`.Halaman.DestinasiEntry
+import com.example.repository.`ui/theme`.Halaman.DestinasiHome
+import com.example.repository.`ui/theme`.Halaman.EntrySiswaScreen
+import com.example.repository.`ui/theme`.Halaman.HomeScreen
 
 
 @Composable
